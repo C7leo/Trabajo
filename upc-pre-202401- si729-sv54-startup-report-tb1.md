@@ -21,6 +21,10 @@
     <td>Camila Leonor Espinoza Vivas</td>
     <td>U202214572</td>
   </tr>
+  <tr>
+    <td>Renzo José Araujo Ingunza</td>
+    <td>u202113612</td>
+  </tr>
 </table>
 
 
