@@ -1,13 +1,28 @@
-<h1 style="text-align: center;">Título del Documento</h1>
+<h2 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h2>
 
-**Autor:** Nombre del Autor
+<h3 style="text-align: center;">Desarrollo de Aplicaciones Open Source SV54</h3>
 
-**Fecha:** Fecha del Documento
+<div style="text-align: center;">
+  <img src="img/UPC.png" alt="logo UPC">
+</div>
 
+<h3 style="text-align: center;">Informe TB1</h3>
 
-**Autor:** Nombre del Autor
+<h3 style="text-align: center;">Hugo Allan Mori Paiva</h3>
 
-**Fecha:** Fecha del Documento
+<h3 style="text-align: center;">Integrantes</h3>
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <th>Nombre y Apellidos</th>
+    <th>Código</th>
+  </tr>
+  <tr>
+    <td>Camila Leonor Espinoza Vivas</td>
+    <td>U202214572</td>
+  </tr>
+</table>
+
 
 ---
 
