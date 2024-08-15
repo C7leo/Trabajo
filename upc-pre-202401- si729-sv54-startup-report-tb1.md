@@ -29,6 +29,10 @@
     <td>Fatima Asmad Padilla</td>
     <td>u202113612</td>
   </tr>
+   <tr>
+    <td>Jhordi Luis Carranza Pérez</td>
+    <td>u20191e835</td>
+  </tr>
 </table>
 
 
