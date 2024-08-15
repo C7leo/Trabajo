@@ -50,6 +50,21 @@
     - 1.2.2.4. [Lean UX Canvas](#Lean-UX-Canvas)
 - 1.3. [Segmentos objetivo](#Segmentos-objetivos)
 
+## Capítulo II: Requirements Elicitation & Analysis
+- 2.1. [Competidores](#Competidores)
+  - 2.1.1. [Análisis competitivo](#Análisis-competitivo)
+  - 2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas)
+- 2.2. [Entrevistas](#Entrevistas)
+  - 2.2.1. [Diseño de entrevistas](#Diseño-de-entrevistas)
+  - 2.2.2. [Registro de entrevistas](#Registro-de-entrevistas)
+  - 2.2.3. [Análisis de entrevistas](#Análisis-de-entrevistas)
+- 2.3. [Needfinding](#Needfinding)
+  - 2.3.1. [User Personas](#User-personas)
+  - 2.3.2. [User Task Matrix](#User-Task-Matrix)
+  - 2.3.3. [User Journey Mapping](#User-journey-mapping)
+  - 2.3.4. [Empathy Mapping](#Empathy-mapping)
+  - 2.3.5. [As-is Scenario Mapping](#As-is-scenario)
+- 2.4. [Ubiquitous Language](#Ubiquitoues-language)
 ---
 
 ## Introducción
