@@ -128,7 +128,9 @@
 
 # Capítulo I: Introducción
 ## Startup Profile
-
+### Descripción de la Startup
+### Perfiles de integrantes del equipo
+## Solution Profile
 
 
 ## Introducción
