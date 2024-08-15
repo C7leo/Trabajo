@@ -38,7 +38,7 @@
 # Índice 
 
 ## Capítulo I: Introducción
-- 1.1. [Startup Profile](#Introducción)
+- 1.1. [Startup Profile](#Startup-Profile)
   - 1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)
   - 1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-grupo)
 - 1.2. [Solution Profile](#Solution-profile)
@@ -127,7 +127,7 @@
 
 
 # Capítulo I: Introducción
-## Introducción
+## Startup Profile
 
 
 
