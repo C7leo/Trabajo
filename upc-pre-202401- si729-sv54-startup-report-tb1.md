@@ -29,6 +29,10 @@
     <td>Fatima Asmad Padilla</td>
     <td>u202113612</td>
   </tr>
+   <tr>
+    <td>Jhordi Luis Carranza Pérez</td>
+    <td>u20191e835</td>
+  </tr>
 </table>
 
 
@@ -127,6 +131,9 @@
 # Capítulo I: Introducción
 ## Startup Profile
 ### Descripción de la Startup
+**NombreStartup** es una innovadora plataforma web diseñada para simplificar la planificación de comidas y apoyar un estilo de vida saludable. En un mundo donde el tiempo es un recurso escaso y los regímenes alimenticios se vuelven cada vez más específicos, NombreStartup se posiciona como la solución ideal para quienes buscan mantener un equilibrio entre su vida personal y sus objetivos de salud.
+
+Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmente, que incluye información detallada sobre el contenido nutricional de cada comida, incluyendo calorías, proteínas, grasas y otros nutrientes esenciales. Ya sea que estés ocupado con tu agenda diaria o que sigas un plan de alimentación y ejercicio estricto, NutriSend se adapta a tus necesidades.
 ### Perfiles de integrantes del equipo
 ## Solution Profile
 
