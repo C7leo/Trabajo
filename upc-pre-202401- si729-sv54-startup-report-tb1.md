@@ -3,7 +3,7 @@
 <h3 style="text-align: center;">Desarrollo de Aplicaciones Open Source SV54</h3>
 
 <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo">
+    <img src="img/UPC.png" alt="UPC Logo">
 </div>
 
 <h3 style="text-align: center;">Informe TB1</h3>
@@ -32,9 +32,6 @@
 </table>
 
 
----
-
----
 ### Contenido 
 # Índice 
 
