@@ -50,6 +50,7 @@
     - 1.2.2.4. [Lean UX Canvas](#Lean-UX-Canvas)
 - 1.3. [Segmentos objetivo](#Segmentos-objetivos)
 
+
 ## Capítulo II: Requirements Elicitation & Analysis
 - 2.1. [Competidores](#Competidores)
   - 2.1.1. [Análisis competitivo](#Análisis-competitivo)
