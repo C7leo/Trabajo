@@ -25,6 +25,10 @@
     <td>Renzo José Araujo Ingunza</td>
     <td>u202113612</td>
   </tr>
+  <tr>
+    <td>Fatima Asmad Padilla</td>
+    <td>u202113612</td>
+  </tr>
 </table>
 
 
