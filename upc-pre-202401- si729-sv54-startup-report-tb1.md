@@ -3,7 +3,7 @@
 <h3 style="text-align: center;">Desarrollo de Aplicaciones Open Source SV54</h3>
 
 <div style="text-align: center;">
-  <img src="img/UPC.png" alt="logo UPC">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC Logo">
 </div>
 
 <h3 style="text-align: center;">Informe TB1</h3>
@@ -25,23 +25,3 @@
 
 
 ---
-
-## Tabla de Contenidos
-1. [Introducción](#introducción)
-2. [Sección 1](#sección-1)
-3. [Sección 2](#sección-2)
-4. [Conclusión](#conclusión)
-
----
-
-## Introducción
-Aquí va el contenido de la introducción.
-
-## Sección 1
-Aquí va el contenido de la sección 1.
-
-## Sección 2
-Aquí va el contenido de la sección 2.
-
-## Conclusión
-Aquí va la conclusión.
