@@ -34,11 +34,21 @@
 
 ---
 
-## Tabla de Contenidos
-1. [Introducción](#introducción)
-2. [Sección 1](#sección-1)
-3. [Sección 2](#sección-2)
-4. [Conclusión](#conclusión)
+### Contenido 
+# Índice 
+
+## Capítulo I: Introducción
+- 1.1. [Startup Profile](#Introducción)
+  - 1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)
+  - 1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-grupo)
+- 1.2. [Solution Profile](#Solution-profile)
+  - 1.2.1. [Antecedentes y problemática](#Antecedentes-y-problemática)
+  - 1.2.2. [Lean UX Process](#Lean-UX-Proccess)
+    - 1.2.2.1. [Lean UX Problem Statements](#Lean-UX-problem-statements)
+    - 1.2.2.2. [Lean UX Assumptions](#Lean-UX-assumptions)
+    - 1.2.2.3. [Lean UX Hypothesis Statements](#Lean-UX-Hypothesis-Statements)
+    - 1.2.2.4. [Lean UX Canvas](#Lean-UX-Canvas)
+- 1.3. [Segmentos objetivo](#Segmentos-objetivos)
 
 ---
 
