@@ -4,25 +4,25 @@
   }
 </style>
 
-<h2 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h2>
+<h1 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h1>
 
-<h3 style="text-align: center;">
+<h2 style="text-align: center;">
     <p>Ingenieria de Software - Ciclo 5</p>
     <p>Desarrollo de Aplicaciones Open Source SV54</p>
-</h3>
+</h2>
 
 <div style="text-align: center;">
     <img src="img/UPC.png" alt="UPC Logo">
 </div>
 
-<h3 style="text-align: center;">
+<h2 style="text-align: center;">
     <p>Informe de Trabajo Final</p>
     <p>NAXUS</p>
     <p>NutriSend</p>
     <p>Hugo Allan Mori Paiva</p>
-</h3>
+</h2>
 
-<h3 style="text-align: center;">Integrantes</h3>
+<h2 style="text-align: center;">Integrantes</h2>
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
