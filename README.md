@@ -250,7 +250,41 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 - **Problemática:** Para definir la problemática, nuestro equipo ha dispuesto la estrategia de las 5'W's y 2'H's
   
   ***5’W’s:***
-   
+
+  **1.What(Qué):**
+
+  Creación de un sistema para ofrecer comida procesada y fría lista para calentar y comer, dirigido a personas que no pueden cocinar regularmente o personas que necesitan de un control alimenticio.
+
+  **2. Who(Quién):**
+
+  Personas con tiempo limitado para cocinar y personas con un régimen alimenticio estructurado que hagan ejecicios.
+
+  **3. Where(Dónde):**
+
+  Las operaciones del servicio estarán disponibles en Lima metropolitana, haciendo énfasis en puntos estratégicos donde se encuentren
+  la mayor cantidad de pedidos de comidas procesadas.
+
+  **4. When(Cuándo):**
+
+  El servicio se ofrecerá a lo largo de todo el año, ajustándose a los requerimientos y horarios de los usuarios.
+
+  **5. Why(Por qué):**
+
+  Se pretende brindar una opción práctica y segura para quienes carecen de tiempo para cocinar o siguen un plan alimenticio específico
+  seguido de determinados ejercicios.
+
+  ***2’H’s:***
+
+  **1. How(Cómo):**
+
+  La comida seleccionada es preparada por chefs calificados, luego se procesa y congela para garantizar su frescura y seguridad alimentaria. Los usuarios
+  pueden hacer sus pedidos mediante una plataforma en línea.
+
+  **2. How Much(Cuánto):**
+
+  El sistema asegura la frescura y seguridad alimentaria de los platos por un periodo de hasta 8 días en el refrigerador. Se implementarán precios
+  accesibles y competitivos, considerando tanto el proceso de preparación como la conveniencia del servicio brindado.
+  
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
