@@ -221,8 +221,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
   <tr>
     <td>Renzo José Araujo Ingunza</td>
     <td>u202113612</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr>
   <tr>
     <td>Fatima Asmad Padilla</td>
