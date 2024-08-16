@@ -1,3 +1,11 @@
+<style>
+  body {
+  font-family: 'Times New Roman', Times, serif;
+  }
+</style>
+
+
+
 <h2 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h2>
 
 <h3 style="text-align: center;">Desarrollo de Aplicaciones Open Source SV54</h3>
