@@ -265,9 +265,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
     <td>¿Por qué llevar a cabo este análisis?</td>
     <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
-    <td colspan="5" style="text-align: center;">Hola</td>
   <tr>
-    
+    <td colspan="5" style="text-align: center;">Hola</td>
   </tr>
   <tr>
     <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
@@ -290,7 +289,7 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
     <td></td>
   </tr>
   <tr>
-    <td rowspan="2">Perfil</td>
+    <td>Perfil</td>
     <td colspan="4">Realice esto para su startup y sus competidores.</td>
   </tr>
   <tr>
