@@ -300,7 +300,7 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 
 **Users:**
 *  Personas con escaso tiempo para cocinar
-*  Personas que necesiten lleven una dieta estructurada con ejercicios de acuerdo a sus objetivos.
+*  Personas que necesiten una dieta estructurada con ejercicios de acuerdo a sus objetivos.
    
 
 #### 1.2.2.4. Lean UX Canvas.
