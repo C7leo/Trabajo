@@ -304,6 +304,17 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+- Si ofrecemos una plataforma fácil de usar con un proceso de pedido sencillo, entonces los usuarios realizarán pedidos con mayor frecuencia.
+  * Motivación: Queremos facilitar la experiencia del usuario para que sea lo más intuitiva y accesible posible.
+- Si proporcionamos alimentos saludables y de alta calidad que cumplan con los planes alimenticios estructurados, entonces atraeremos a usuarios con necesidades dietéticas específicas.
+  * Motivación: Queremos captar a un segmento de mercado que se preocupa por su salud y que sigue regímenes alimenticios estrictos.
+- Si garantizamos la frescura y la seguridad y la seguridad alimentaria de nuestros productos, entonces aumentará la confianza y satisfacción del cliente.
+  * Motivación: La seguridad y calidad son prioridades clave para mantener una relación de confianza con nuestros clientes.
+- Si nos enfocamos en zonas estratégicas de Lima para la entrega, entonces optimizaremos los tiempos de entrega y reduciremos los costos operativos.
+  * Motivación: Quremos maximizar la eficiencia logística y la satisfacción del cliente mediante entregas rápidas y confiables.
+- Si ofrecemos precios competitivos que reflejen la calidad del servicio, entonces lograremos una mayor retención y lealtad de los clientes.
+  * Motivación: El equilibrio entre el precio y calidad es fundamental para mantener una bvase de clientes sólida y en crecimiento.
+
 **Users:**
 *  Personas con escaso tiempo para cocinar
 *  Personas que necesiten una dieta estructurada con ejercicios de acuerdo a sus objetivos.
