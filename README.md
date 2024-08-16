@@ -296,6 +296,12 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 **¿Cómo podemos ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios de los usuarios con un plan estructurado, permitiéndoles controlar sus alimentos, mantener una rutina de ejercicios y llevar un estilo de vida más saludable sin sacrificar la calidad ni el valor nutricional de los alimentos preparados?**
 
 #### 1.2.2.2. Lean UX Assumptions.
+- Los usuarios valoran la conveniencia y rapidez: Asumimos que los usuarios de NutriSend priorizan la conveniencia y la rapidez en la entrega de sus alimentos, debido a sus agendas ocupadas.
+- Los usuarios quieren alimentos saludables y de calidad: Creemos que nuestros usuarios no solo buscan conveniencia, sino también opciones de alimentos que sean saludables y que mantengan su valor nutricional, especialmente aquellos que siguien planes alimenticios estructurados.
+- El diseño y la usabilidad de la plataforma son cruciales: Asumimos que una plataforma web fácil y visualmente atractiva es fundamental para que los usuarios realicen sus pedidos de manera rápida y sin complicaciones.
+- Existe una demanda significativa en Lima metropolitana: Suponemos que en la capital Lima hay una demanda bastante alta de servicios de entrega de alimentos preparados, especialmente entre profesionales jóvenes y estudiantes universitarios.
+- Los usuarios están dispuestos a pagar un precio justo por conveniencia y calidad: Creemos que nuestros usuarios estarán dispuestos a pagar un precio justo que refleja la conveniencia del servicio y la calidad de alimentos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
 **Users:**
