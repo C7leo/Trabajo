@@ -257,53 +257,111 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
   <tr>
-    <th colspan="5">Competitive Analysis Landscape</th>
+    <th colspan="6">Competitive Analysis Landscape</th>
   </tr>
   <tr>
-    <td>¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
     <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
   </tr>
   <tr>
-    <td colspan="5" style="text-align: center;">Hola</td>
+    <td colspan="4">Texto</td>
   </tr>
   <tr>
-    <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
-    <th>Su startup</th>
-    <th>Comp1</th>
-    <th>Comp2</th>
-    <th>Comp3</th>
+   <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
+    <td>Starup</td>
+    <td>Competidor 1</td>
+    <td>Competidor 2</td>
+    <td>Competidor 3</td> 
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
     <td>Overview</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
   </tr>
   <tr>
-    <td>Ventaja</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Ventaja competitiva ¿Que valor ofrece a los clientes</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
   </tr>
   <tr>
-    <td>Perfil</td>
-    <td colspan="4">Realice esto para su startup y sus competidores.</td>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado objetivo</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Ventaja</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Estrategias de marketing</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td>Canales de distribucion (Web y/o Movil)</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Analisis SWOT</td>
+    <td colspan="5">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus
+    oportunidades y contribuir a lo que ustedes definen como su posible ventaja
+    competitiva. </td>
+  </tr>
+  <tr>
+    <td>Fortalezas</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
   </tr>
 </table>
-
-
-
-
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
@@ -321,6 +379,24 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+
+<table border="1" cellpadding="10" cellspacing="0" style="margin-left: auto; margin-right: auto;">
+<tr>
+    <td>Epic / Story ID</td>
+    <td>Titulo</td>
+    <td>Descripción</td>
+    <td>Criterios de Aceptacion</td>
+    <td>Relacionado con (Epic ID)</td>
+</tr>
+<tr>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+    <td>texto</td>
+  </tr>
+</table>
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
 
@@ -379,3 +455,5 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 ## Video About-the-Team.
 # Bibliografía
 # Anexos
+
+Repositorio GitHub: 
