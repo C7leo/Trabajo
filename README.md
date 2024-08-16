@@ -6,15 +6,21 @@
 
 <h2 style="text-align: center;"><b>Universidad Peruana de Ciencias Aplicadas</b></h2>
 
-<h3 style="text-align: center;">Desarrollo de Aplicaciones Open Source SV54</h3>
+<h3 style="text-align: center;">
+    <p>Ingenieria de Software - Ciclo 5</p>
+    <p>Desarrollo de Aplicaciones Open Source SV54</p>
+</h3>
 
 <div style="text-align: center;">
     <img src="img/UPC.png" alt="UPC Logo">
 </div>
 
-<h3 style="text-align: center;">Informe TB1</h3>
-
-<h3 style="text-align: center;">Hugo Allan Mori Paiva</h3>
+<h3 style="text-align: center;">
+    <p>Informe de Trabajo Final</p>
+    <p>NAXUS</p>
+    <p>NutriSend</p>
+    <p>Hugo Allan Mori Paiva</p>
+</h3>
 
 <h3 style="text-align: center;">Integrantes</h3>
 
@@ -41,11 +47,17 @@
   </tr>
 </table>
 
+<h4 style="text-align: center;">Agosto 2024</h4>
 
-### Contenido 
-# Índice 
+# Registro de Versiones del Informe
 
-## Capítulo I: Introducción
+# Project Report Collaboration Insights
+
+# Contenido 
+
+## Índice 
+
+### Capítulo I: Introducción
 - 1.1. [Startup Profile](#Startup-Profile)
   - 1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)
   - 1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-grupo)
@@ -59,7 +71,7 @@
 - 1.3. [Segmentos objetivo](#Segmentos-objetivos)
 
 
-## Capítulo II: Requirements Elicitation & Analysis
+### Capítulo II: Requirements Elicitation & Analysis
 - 2.1. [Competidores](#Competidores)
   - 2.1.1. [Análisis competitivo](#Análisis-competitivo)
   - 2.1.2. [Estrategias y tácticas frente a competidores](#Estrategias-y-tácticas)
@@ -75,13 +87,13 @@
   - 2.3.5. [As-is Scenario Mapping](#As-is-scenario)
 - 2.4. [Ubiquitous Language](#Ubiquitoues-language)
 
-## Capítulo III: Requirements Specification
+### Capítulo III: Requirements Specification
 - 3.1. [To-Be Scenario Mapping](#To-Be-scenario-mapping)
 - 3.2. [User Stories](#User-stories)
 - 3.3. [Impact Mapping](#Impact-mapping)
 - 3.4. [Product Backlog](#product-backlog)
 
-## Capítulo IV: Product Design
+### Capítulo IV: Product Design
 - 4.1. [Style Guidelines](#Style-Guidelines)
   - 4.1.1. [General Style Guidelines](#General-style-guidelines)
   - 4.1.2. [Web Style Guidelines](#Web-style-guidelines)
@@ -110,7 +122,7 @@
 - 4.8. [Database Design](#Database-Design)
   - 4.8.1. [Database Diagram](#Database-diagram)
 
-## Capítulo V: Product Implementation, Validation & Deployment
+### Capítulo V: Product Implementation, Validation & Deployment
   - 5.1. [Software Configuration Management](#Software-configuration-management)
   - 5.1.1. [Software Development Environment Configuration](#Software-development-enviroment)
   - 5.1.2. [Source Code Management](#Source-code-management)
@@ -132,7 +144,7 @@
   - 5.3.3. [Evaluaciones según heurísticas](#Evaluaciones-según-heurísticas)
 - 5.4. [Video About-the-Product](#Video-About-the-Product)
 ---
-
+# Student Outcome
 
 # Capítulo I: Introducción
 ## Startup Profile
