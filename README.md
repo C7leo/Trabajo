@@ -66,9 +66,9 @@
   </tr>
   <tr>
     <td>TB1</td>
-    <td>---</td>
+    <td>16/08</td>
     <td>Renzo José Araujo Ingunza</td>
-    <td>---</td>
+    <td>Índice</td>
   </tr> 
   <tr>
     <td>TB1</td>
@@ -221,8 +221,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
   <tr>
     <td>Renzo José Araujo Ingunza</td>
     <td>u202113612</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona responsable y aplicada. para este proyecto cuento con conocimientos en lenguajes de programación como C + +, Python y java.</td>
   </tr>
   <tr>
     <td>Fatima Asmad Padilla</td>
@@ -246,10 +246,63 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+- **Antecedentes:** En la actualidad, muchas personas por temas de trabajo o estudios, no tienen el tiempo suficiente para cocinar. Otras, necesitan saber y controlar el valor nutricional de los platillos que comen debido al régimen alimenticio que llevan y tener una rutina acorde a lo que ellos necesiten. Para todas esas personas está pensado este proyecto el cual ayudará tanto al que no puede cocinar como al que quiere tener un control sobre su alimentación y ejercicios.
+- **Problemática:** Para definir la problemática, nuestro equipo ha dispuesto la estrategia de las 5'W's y 2'H's
+  
+  ***5’W’s:***
+
+  **1.What(Qué):**
+
+  Creación de un sistema para ofrecer comida procesada y fría lista para calentar y comer, dirigido a personas que no pueden cocinar regularmente o personas que necesitan de un control alimenticio.
+
+  **2. Who(Quién):**
+
+  Personas con tiempo limitado para cocinar y personas con un régimen alimenticio estructurado que hagan ejecicios.
+
+  **3. Where(Dónde):**
+
+  Las operaciones del servicio estarán disponibles en Lima metropolitana, haciendo énfasis en puntos estratégicos donde se encuentren
+  la mayor cantidad de pedidos de comidas procesadas.
+
+  **4. When(Cuándo):**
+
+  El servicio se ofrecerá a lo largo de todo el año, ajustándose a los requerimientos y horarios de los usuarios.
+
+  **5. Why(Por qué):**
+
+  Se pretende brindar una opción práctica y segura para quienes carecen de tiempo para cocinar o siguen un plan alimenticio específico
+  seguido de determinados ejercicios.
+
+  ***2’H’s:***
+
+  **1. How(Cómo):**
+
+  La comida seleccionada es preparada por chefs calificados, luego se procesa y congela para garantizar su frescura y seguridad alimentaria. Los usuarios
+  pueden hacer sus pedidos mediante una plataforma en línea.
+
+  **2. How Much(Cuánto):**
+
+  El sistema asegura la frescura y seguridad alimentaria de los platos por un periodo de hasta 8 días en el refrigerador. Se implementarán precios
+  accesibles y competitivos, considerando tanto el proceso de preparación como la conveniencia del servicio brindado.
+  
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Para los usuarios con agendas ocupadas que no disponen de tiempo para cocinar con frecuencia, Nutri Send aborda el reto de ofrecer una solución rápida y conveniente que cubra sus necesidades alimentarias sin sacrificar la calidad.
+
+**¿Cómo podemos ofrecer una solución conveniente y rápida que satisfaga las necesidades alimentarias de los usuarios ocupados sin comprometer la calidad de  los alimentos preparados?**
+
+Para los usuarios con un plan alimenticio estructurado que desean tener un control sobre sus alimentos y llevar una rutina de ejercicios y llevar un estilo de vida más saludable. Nutri Send aborda el reto de ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios sin sacrificar la calidad ni el valor nutricional de los alimentos preparados y tener una estructura de ejercicios establecidos.
+
+**¿Cómo podemos ofrecer una solución rápida y conveniente que cumpla con los requisitos alimenticios de los usuarios con un plan estructurado, permitiéndoles controlar sus alimentos, mantener una rutina de ejercicios y llevar un estilo de vida más saludable sin sacrificar la calidad ni el valor nutricional de los alimentos preparados?**
+
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+**Users:**
+*  Personas con escaso tiempo para cocinar
+*  Personas que necesiten una dieta estructurada con ejercicios de acuerdo a sus objetivos.
+   
+
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
 
@@ -455,5 +508,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 ## Video About-the-Team.
 # Bibliografía
 # Anexos
+<<<<<<< HEAD
 
 Repositorio GitHub: 
+=======
+>>>>>>> 70f0313112ccd091315ae071927a516f03a9108a
