@@ -66,9 +66,9 @@
   </tr>
   <tr>
     <td>TB1</td>
-    <td>---</td>
+    <td>16/08</td>
     <td>Renzo José Araujo Ingunza</td>
-    <td>---</td>
+    <td>Índice</td>
   </tr> 
   <tr>
     <td>TB1</td>
