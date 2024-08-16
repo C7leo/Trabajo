@@ -233,8 +233,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
   <tr>
     <td>Jhordi Luis Carranza Pérez</td>
     <td>u20191e835</td>
-    <td>----</td>
-    <td>----</td>
+    <td>Ingeniería de Software</td>
+    <td>Soy una persona dispuesta a seguir aprendiendo y mejorando constantemente. Mis conocimientos de programación en C++, Python, HTML y sobre todo la lógica de programación serán de vital ayuda para la realización de este proyecto.</td>
   </tr>
   <td>Renzo José Araujo Ingunza</td>
     <td>u202113612</td>
