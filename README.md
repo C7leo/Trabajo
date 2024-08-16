@@ -297,6 +297,12 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
 
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+**Users:**
+*  Personas con escaso tiempo para cocinar
+*  Personas que necesiten lleven una dieta estructurada con ejercicios de acuerdo a sus objetivos.
+   
+
 #### 1.2.2.4. Lean UX Canvas.
 ## 1.3. Segmentos objetivo.
 
