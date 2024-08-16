@@ -246,6 +246,11 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+- **Antecedentes:** En la actualidad, muchas personas por temas de trabajo o estudios, no tienen el tiempo suficiente para cocinar. Otras, necesitan saber y controlar el valor nutricional de los platillos que comen debido al régimen alimenticio que llevan y tener una rutina acorde a lo que ellos necesiten. Para todas esas personas está pensado este proyecto el cual ayudará tanto al que no puede cocinar como al que quiere tener un control sobre su alimentación y ejercicios.
+- **Problemática:** Para definir la problemática, nuestro equipo ha dispuesto la estrategia de las 5'W's y 2'H's
+  
+  ***5’W’s:***
+   
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 #### 1.2.2.2. Lean UX Assumptions.
