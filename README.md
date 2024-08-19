@@ -321,6 +321,9 @@ Para los usuarios con un plan alimenticio estructurado que desean tener un contr
    
 
 #### 1.2.2.4. Lean UX Canvas.
+
+<img src="img/Canvas.jpg" alt="LEAN UX CANVAS">
+
 ## 1.3. Segmentos objetivo.
 
 # Capítulo II: Requirements Elicitation & Analysis
