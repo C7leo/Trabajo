@@ -497,6 +497,16 @@ estimulan el apetito y transmiten frescura y salud, creando una experiencia visu
 ![Paleta de colores](img/PaletaColores.png)
 
 *Iconos*<br>
+Dado que NutriSend está diseñado para deportistas y personas que no tienen tiempo para cocinar, hemos desarrollado una colección de íconos específicos para mejorar el prototipo del sistema. Estos íconos están destinados a hacer la interfaz más iteractiva y alineada con los objetivos de nuestro servicio, proporcionando una experiencia visualmente coherente y relevante.
+
+![Icono 1](img/Icons1.PNG)
+![Icono 2](img/Icons2.PNG)<br>
+![Icono 3](img/Icons3.PNG)
+![Icono 4](img/Icons4.PNG)
+
+*Font*<br>
+Finalmente, para garantizar una apariencia uniforme en el desarrollo de nuestro aplicativo, utilizaremos la fuente **Roboto**. Elegimos Roboto por su legibilidad, espaciado equilibrado y diseño sin serifas, lo que proporciona una flexibilidad óptima y una experiencia de lectura clara y coherente en todas las plataformas de NutriSend.
+
 
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
