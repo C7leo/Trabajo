@@ -490,6 +490,12 @@ el apetito del cliente, resaltando los platillos y los diversos ejercicios mostr
 
 ### 4.1.1. General Style Guidelines.
 
+*Color*
+
+NutriSend se enfoca en mantener un estilo minimalista que permita al usuario una comprensión inmediata del sitio web. Utiliza colores que 
+estimulan el apetito y transmiten frescura y salud, creando una experiencia visual que no solo atrae, sino que también fomenta el bienestar.  
+
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
