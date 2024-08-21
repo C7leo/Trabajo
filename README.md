@@ -246,7 +246,8 @@ Nuestra plataforma ofrece un servicio integral de envío de alimentos semanalmen
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-- **Antecedentes:** En la actualidad, muchas personas por temas de trabajo o estudios, no tienen el tiempo suficiente para cocinar. Otras, necesitan saber y controlar el valor nutricional de los platillos que comen debido al régimen alimenticio que llevan y tener una rutina acorde a lo que ellos necesiten. Para todas esas personas está pensado este proyecto el cual ayudará tanto al que no puede cocinar como al que quiere tener un control sobre su alimentación y ejercicios.
+- **Antecedentes:** En la actualidad, muchas personas, debido a temas de trabajo o estudios, no tienen el tiempo suficiente para cocinar. Desde la llegada del Covid-19 a Perú, los peruanos han enfrentado muchos cambios, entre ellos la adquisición de nuevos hábitos, como lo es propiamente la cocina. En marzo de 2020, en pleno auge de la crisis sanitaria, el 66% de los hogares peruanos manifestaron que la cocina y repostería fueron las actividades más importantes realizadas durante la cuarentena, hábito que ha perdurado hasta el 2021, con un 62% de familias que continúan cocinando y preparando postres. Sin embargo, el 13% de los hogares señala que ya no cuenta con el mismo tiempo para cocinar (Kantar, 2021).
+  
 - **Problemática:** Para definir la problemática, nuestro equipo ha dispuesto la estrategia de las 5'W's y 2'H's
   
   ***5’W’s:***
