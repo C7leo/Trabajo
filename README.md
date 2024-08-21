@@ -484,7 +484,12 @@ A continuacion presentamos a nuestros tres principales competidores:
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
+
+Debido al rubro al que nuestra solución web está enfocada al sector gastronómico y fitnes. Es necesario que tenga un estilo llamativo y que despierte
+el apetito del cliente, resaltando los platillos y los diversos ejercicios mostrados en el sitio web.
+
 ### 4.1.1. General Style Guidelines.
+
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
